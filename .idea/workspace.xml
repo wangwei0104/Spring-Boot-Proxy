@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae4e7594-cf1b-43d4-953e-2afc9d92a4d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-annotationAwareAspectJAutoProxyCreator/aop-annotationAwareAspectJAutoProxyCreator.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-beanNameAutoProxyCreator/aop-beanNameAutoProxyCreator.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-cglib/aop-cglib.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-defaultAdvisorAutoProxyCreator-1/aop-defaultAdvisorAutoProxyCreator-1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-defaultAdvisorAutoProxyCreator-2/aop-defaultAdvisorAutoProxyCreator-2.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-defaultPointcutAdvisor/aop-defaultPointcutAdvisor.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-proxyFactory/aop-proxyFactory.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-regexpMethodPointcutAdvisor/aop-regexpMethodPointcutAdvisor.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aop-staticMethodPointcutAdvisor/aop-staticMethodPointcutAdvisor.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/filterChain/filterChain.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ioc-circularDependencies/ioc-circularDependencies.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-cglib/src/main/java/com/aop/IRealService.java" afterPath="$PROJECT_DIR$/aop-cglib/src/main/java/com/aop/IRealService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aop-cglib/src/main/java/com/aop/RealService.java" afterPath="$PROJECT_DIR$/aop-cglib/src/main/java/com/aop/RealService.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -631,12 +616,20 @@
       <workItem from="1542716456507" duration="2917000" />
       <workItem from="1542780822459" duration="109000" />
       <workItem from="1542780944688" duration="8820000" />
-      <workItem from="1571743648613" duration="2708000" />
+      <workItem from="1571743648613" duration="2744000" />
     </task>
+    <task id="LOCAL-00001" summary="ssss">
+      <created>1571746373516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571746373516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77545000" />
+    <option name="totallyTimeSpent" value="77581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -714,6 +707,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
