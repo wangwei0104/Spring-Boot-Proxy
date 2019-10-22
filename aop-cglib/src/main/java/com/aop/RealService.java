@@ -8,4 +8,19 @@ public class RealService implements IRealService{
     @Override
     public void realMethod() {
     }
+
+    @Override
+    public void realMethod2() {
+
+    }
+
+    @Override
+    public void realMethod3() {
+
+    }
+
+    @Override
+    public void realMethod4() {
+
+    }
 }
